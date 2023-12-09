@@ -66,10 +66,10 @@ browser. GitHub's URLs are very consistent. You can always find pull requests at
 a URL with the following pattern:
 
 ```
-https://github.com/<user>/<repo>/<pull>/<number>
+https://github.com/<user>/<repo>/pull/<number>
 ```
 
-From this page, you might be able to choose me (gabalafou) as a reviewer.
+From this page, you might be able to add me (gabalafou) as a reviewer.
 
 On the right side of the pull request page there is a section labeled
 "Reviewers". On the same line there is a gear ⚙️ icon. Click on that icon and
