@@ -1,0 +1,45 @@
+Instructions:
+
+1. Find your name below
+2. Next to your name, on the same line, type the following statement: 
+   I completed all the lessons at all three Khan Academy links in the More Complexing Representations assignment
+3. Commit your changes
+
+Note: Please do not add new lines to this file. 
+Keep your name and the confirmation statement on the same line.
+
+Orange
+======
+Arthur
+Asante
+Carla
+Clara
+Daivyon
+Daniel
+Julia
+Kritika
+Leo
+Lola
+Michael
+Ryder
+Tiyanu
+Varun
+Will
+Zack
+
+Purple
+======
+Anabelle
+Benjamin
+Callum
+Dilzafer
+Edward
+Emilia
+Grace
+Jacob
+James
+JR
+Laurie
+Luisa
+Newton
+Jason
