@@ -18,3 +18,22 @@ test a different condition, like `greater_than(1, 10)`.
 
 These test files use assert statements. If the expression in an assert statement
 is false, then the program throws an error and stops executing immediately. 
+
+All of these assert statements are good:
+
+```py
+assert True
+assert not False
+assert 1 + 1 == 2
+assert not 1 > 2
+```
+
+Whereas these assert statements are bad. They will cause the program to exit
+with an error message:
+
+```py
+assert not True
+assert False
+assert 1 + 1 != 2
+assert 1 > 2
+```
