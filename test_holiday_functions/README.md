@@ -50,7 +50,7 @@ Click on the test file corresponding to your section (orange or purple).
 
 ### Step 2
 
-Click the "Edit this file" button, shown in the screen shot below:
+Click the "Edit this file" button, shown in the screen shot below (on the right):
 
 ![](https://github.com/gabalafou/zebracorn/assets/317883/4fecb852-a390-43fd-ada9-30c9b14ffc08)
 
