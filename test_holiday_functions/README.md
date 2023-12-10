@@ -22,6 +22,7 @@ is false, then the program throws an error and stops executing immediately.
 All of these assert statements are good:
 
 ```py
+# Good
 assert True
 assert not False
 assert 1 + 1 == 2
@@ -32,6 +33,7 @@ Whereas these assert statements are bad. They will cause the program to exit
 with an error message:
 
 ```py
+# Bad
 assert not True
 assert False
 assert 1 + 1 != 2
