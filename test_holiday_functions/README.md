@@ -1,3 +1,5 @@
+# Test Holiday Functions
+
 In this folder there are two files:
 
 1. `test_purple_holiday_functions.py`
@@ -39,3 +41,38 @@ assert False
 assert 1 + 1 != 2
 assert 1 > 2
 ```
+
+## How to add your tests, step by step
+
+### Step 1
+
+Click on the test file corresponding to your section (orange or purple).
+
+### Step 2
+
+Click the "Edit this file" button, shown in the screen shot below:
+
+![](https://github.com/gabalafou/zebracorn/assets/317883/4fecb852-a390-43fd-ada9-30c9b14ffc08)
+
+This will open the file in a text editor in your browser.
+
+### Step 3
+
+Find your name and fill two lines below your name, each with one assert statement. 
+
+Do not change the number of lines below your name. There should be exactly three 
+lines below your name. The first two lines are for your two assert statements, 
+each on a separate line. The third line is meant to be left blank.
+
+Then click the green "Commit changes..." button in the upper right, shown in the 
+following screenshot:
+
+![](https://github.com/gabalafou/zebracorn/assets/317883/ea0bb76b-9e35-4522-bb34-f51813fcab83)
+
+### Step 4
+
+Add a commit message, then press "Commit changes"
+
+![screenshot commit message modal](https://github.com/gabalafou/zebracorn/assets/317883/706b3e52-671c-4d7b-8662-8a8fce455b0e)
+
+If all went well, your changes should be saved to the file.
