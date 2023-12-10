@@ -11,7 +11,7 @@ another student. In other words, you must contribute **unique** test cases to
 the test file. 
 
 You should also try to make your contributions distinct. What this means is, for
-example, if you were testing a function like `greater_than(a, b)` and one your
+example, if you were testing a function like `greater_than(a, b)` and one of your
 classmates tested `greater_than(10, 1)`, and another tested `greater_than(11,
 1)` then you shouldn't add the test `greater_than(12, 1)`. You should instead
 test a different condition, like `greater_than(1, 10)`.
