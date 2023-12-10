@@ -1,6 +1,6 @@
 # First read the instructions in the README.md file.
 #
-# Then if you are in the PURPLE section, find your name below and add two test 
+# Then if you are in the ORANGE section, find your name below and add two test 
 # cases right below your name to this file, patterning your test code after
 # the teacher's.
 #
