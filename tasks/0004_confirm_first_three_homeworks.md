@@ -9,7 +9,7 @@ assignments.
 The first three homework assignments are critical to the quiz. This is why 
 I want clear confirmation from students whether or not they did it.
 
-At the root of this repo, there is a folder called homework_confirmations.
+At the root of this repo, there is a folder called [homework_confirmations](../homework_confirmations).
 Underneath that folder, you'll find three files:
 
 1. bits_and_bytes.txt
