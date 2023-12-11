@@ -73,6 +73,7 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # Zack
-
+assert naughty_or_nice(5,0)# Since the person is in fifth form and has 0 demerits
+assert not in_the_holiday_spirit(2,5)# Since number of quizzes is greater than number of demerits
 
 
